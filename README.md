@@ -1,1 +1,0 @@
-# General-Purpose-Renting-system
